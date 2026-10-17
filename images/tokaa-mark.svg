@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Tokaa Tech Consult">
+  <defs>
+    <linearGradient id="tokaa-g" x1="4" y1="6" x2="60" y2="58" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#14e0c0"/>
+      <stop offset="0.5" stop-color="#3b82f6"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="tokaa-sheen" x1="32" y1="8" x2="32" y2="40" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff" stop-opacity="0.38"/>
+      <stop offset="1" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <path d="M15 10 H49 A7 7 0 0 1 56 17 A7 7 0 0 1 49 24 H39 V47 A7 7 0 0 1 32 54 A7 7 0 0 1 25 47 V24 H15 A7 7 0 0 1 8 17 A7 7 0 0 1 15 10 Z" fill="url(#tokaa-g)"/>
+  <path d="M15 10 H49 A7 7 0 0 1 56 17 A7 7 0 0 1 49 24 H39 V30 H25 V24 H15 A7 7 0 0 1 8 17 A7 7 0 0 1 15 10 Z" fill="url(#tokaa-sheen)"/>
+  <circle cx="32" cy="58" r="3.2" fill="url(#tokaa-g)"/>
+</svg>
